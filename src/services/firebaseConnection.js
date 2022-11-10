@@ -3,13 +3,13 @@ import {getFirestore} from 'firebase/firestore'
 import {getAuth} from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDaVwrocFrLoqBaRAfVS0y11tMaN-hoFTM",
-  authDomain: "devlink-lucarauj.firebaseapp.com",
-  projectId: "devlink-lucarauj",
-  storageBucket: "devlink-lucarauj.appspot.com",
-  messagingSenderId: "381346878383",
-  appId: "1:381346878383:web:499a8ae24e1ee1b617155a",
-  measurementId: "G-VSD6XT2HP4"
+  apiKey: "AIzaSyCeiYkS1-3SMayFIKc-PtSjmmhFVpyp70E",
+  authDomain: "devlinks-d3255.firebaseapp.com",
+  projectId: "devlinks-d3255",
+  storageBucket: "devlinks-d3255.appspot.com",
+  messagingSenderId: "553896276753",
+  appId: "1:553896276753:web:002117644e6a0cafa992b0",
+  measurementId: "G-SBMF7PSCJP"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
@@ -18,3 +18,5 @@ const db = getFirestore(firebaseApp);
 const auth = getAuth(firebaseApp);
 
 export {db, auth};
+
+
