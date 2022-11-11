@@ -11,8 +11,9 @@ import { toast } from 'react-toastify'
 
 export default function Social() {
     const [facebook, setFacebook] = useState("")
-    const [youtube, setYoutube] = useState("")
     const [instagram, setInstagram] = useState("")
+    const [youtube, setYoutube] = useState("")
+    
 
     useEffect(() => {
         function loadLinks() {
@@ -21,13 +22,11 @@ export default function Social() {
             .then((snapshot) => {
                 if(snapshot.data() !== undefined) {
                     setFacebook(snapshot.data().facebook)
-                    setYoutube(snapshot.data().youtube)
                     setInstagram(snapshot.data().instagram)
+                    setYoutube(snapshot.data().youtube)
+                    
                 }
             })
-        //    .catch((error) => {
-        //        console.log("Erro ao salvar: " + error);
-        //    })
         }
 
         loadLinks();
@@ -39,8 +38,9 @@ export default function Social() {
 
         setDoc(doc(db, "social", "link"), {
             facebook: facebook,
-            youtube: youtube,
-            instagram: instagram
+            instagram: instagram,
+            youtube: youtube
+            
         })
             .then(() => {
                 console.log("Urls salvas com sucesso");
@@ -63,17 +63,17 @@ export default function Social() {
                     value={facebook}
                     onChange={(e) => setFacebook(e.target.value)}
                 />
-                <label className='label'>Link do Youtube</label>
-                <Input
-                    placeholder="Digite a url do Youtube"
-                    value={youtube}
-                    onChange={(e) => setYoutube(e.target.value)}
-                />
                 <label className='label'>Link do Instagram</label>
                 <Input
                     placeholder="Digite a url do Instagram"
                     value={instagram}
                     onChange={(e) => setInstagram(e.target.value)}
+                />
+                <label className='label'>Link do Youtube</label>
+                <Input
+                    placeholder="Digite a url do Youtube"
+                    value={youtube}
+                    onChange={(e) => setYoutube(e.target.value)}
                 />
 
                 <button type='submit' className='btn-register'>

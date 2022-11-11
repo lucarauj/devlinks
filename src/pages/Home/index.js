@@ -75,10 +75,10 @@ export default function Home() {
                     <Social url={socialLinks?.facebook}>
                         <FaFacebook size={35} color="#fff" />
                     </Social>
-                    <Social url={socialLinks?.youtube}>
+                    <Social url={socialLinks?.instagram}>
                         <FaInstagram size={35} color="#fff" />
                     </Social>
-                    <Social url={socialLinks?.instagram}>
+                    <Social url={socialLinks?.youtube}>
                         <FaYoutube size={35} color="#fff" />
                     </Social>
                 </footer>
