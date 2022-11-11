@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# DevLink
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/dsmeta/blob/main/LICENSE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sobre o projeto
 
-## Available Scripts
+[https://devlinks-lucarauj.netlify.app/]
 
-In the project directory, you can run:
+Projeto executado na **Semana React JS** do [Sujeito Programador](https://sujeitoprogramador.com/).
+A aplicação consiste em mostrar ao usuário links do meu interesse como LinkedIn, GitHub e redes sociais (este não coloquei na aplicação, somente a funcionalidade).
+A ferramenta utilizou como base: HTML, CSS, Java Script e React JS, além do Firebase para cadastrar, buscar e excluir os links e redes sociais em tempo real no banco de dados. Para hospedar o projeto foi utilizada a plataforma da Netlify.
 
-### `npm start`
+## Layout Home
+![Layout Home](https://github.com/lucarauj/assets/blob/main/Devlink%201.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Layout Login
+![Layout Login](https://github.com/lucarauj/assets/blob/main/Devlink%202.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Layout Admin
+![Layout Admin](https://github.com/lucarauj/assets/blob/main/Devlink%203.png)
 
-### `npm test`
+## Layout Admin/social
+![Layout Admin/Social](https://github.com/lucarauj/assets/blob/main/Devlink%204.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+# Tecnologias utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Front end
+- HTML / CSS / JS
+- ReactJS
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Ferramentas
+- (Design Figma)[https://www.figma.com/file/xhQ2hQHTM86HtFuj3m7jcd/DevLink---Semana-React-JS?node-id=0%3A1]
+- VS Code
+- Git/Github
+- Netlify
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucarauj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucarauj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucarauj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucarauj-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Lucarauj-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Lucarauj-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Lucarauj-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Lucarauj-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Lucarauj-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Lucarauj-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+          
+  
+</div>
 
-### `npm run eject`
+# Autor
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Lucas Araujo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://www.linkedin.com/in/lucarauj
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
