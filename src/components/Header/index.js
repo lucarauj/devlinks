@@ -21,7 +21,7 @@ export function Header () {
                     Links 
                 </Link>
                 <Link to = "/admin/social">
-                    Network 
+                    Redes Sociais 
                 </Link>
             </nav>
         </header>
