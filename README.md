@@ -1,5 +1,5 @@
 # DevLink
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/dsmeta/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/devlinks/blob/main/LICENSE)
 
 # Sobre o projeto
 
