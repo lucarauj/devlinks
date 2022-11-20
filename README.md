@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-[https://devlinks-lucarauj.netlify.app/]
+### [CLIQUE AQUI E VEJA O PROJETO](https://devlinks-lucarauj.netlify.app/)
 
 Projeto executado na **Semana React JS** do [Sujeito Programador](https://sujeitoprogramador.com/).
 A aplicação consiste em mostrar ao usuário links do meu interesse como LinkedIn, GitHub e redes sociais (este não coloquei na aplicação, somente a funcionalidade).
