@@ -27,6 +27,7 @@ A ferramenta utilizou como base: HTML, CSS, Java Script e React JS, além do Fir
 ## Front end
 - HTML / CSS / JS
 - ReactJS
+- Next JS
 
 ## Ferramentas
 - [Design Figma](https://www.figma.com/file/xhQ2hQHTM86HtFuj3m7jcd/DevLink---Semana-React-JS?node-id=0%3A1)
@@ -38,6 +39,7 @@ A ferramenta utilizou como base: HTML, CSS, Java Script e React JS, além do Fir
   <img align="center" alt="Lucarauj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucarauj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucarauj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucarauj-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Lucarauj-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Lucarauj-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Lucarauj-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
