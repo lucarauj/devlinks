@@ -29,7 +29,7 @@ A ferramenta utilizou como base: HTML, CSS, Java Script e React JS, além do Fir
 - ReactJS
 
 ## Ferramentas
-- (Design Figma)[https://www.figma.com/file/xhQ2hQHTM86HtFuj3m7jcd/DevLink---Semana-React-JS?node-id=0%3A1]
+- [Design Figma](https://www.figma.com/file/xhQ2hQHTM86HtFuj3m7jcd/DevLink---Semana-React-JS?node-id=0%3A1)
 - VS Code
 - Git/Github
 - Netlify
@@ -44,7 +44,7 @@ A ferramenta utilizou como base: HTML, CSS, Java Script e React JS, além do Fir
   <img align="center" alt="Lucarauj-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Lucarauj-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Lucarauj-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Lucarauj-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img align="center" alt="Lucarauj-Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
           
   
 </div>
